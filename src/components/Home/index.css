@@ -1,0 +1,341 @@
+.sriMandirConatainer1 {
+  background-color: #fff0f3;
+  height: 70vh;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 90px;
+  padding-right: 90px;
+}
+.downloadContainerImage {
+  height: 500px;
+  width: 500px;
+}
+.downloadContainerHeading {
+  color: #000000;
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+}
+.imageMandir {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.fotterContainerParagraph {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-style: normal;
+  padding-left: 20px;
+}
+.mandirHeading {
+  color: #212020;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: normal;
+  padding-top: 10px;
+}
+.fotterContainer {
+  width: 100%;
+  height: 10vh;
+  background-color: orange;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.lastContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.lastImage {
+  height: 90px;
+  width: 180px;
+  padding: 20px;
+}
+.lastImage1 {
+  height: 60px;
+  width: 60px;
+  padding-left: 15px;
+}
+.downloadContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.explore {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.exploreheading1 {
+  color: #000000;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: normal;
+  padding-top: 30px;
+}
+.exploreheading2 {
+  color: #000000;
+  font-size: 40px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: normal;
+  padding-top: 30px;
+  text-align: center;
+}
+.exploreHeading {
+  text-align: left;
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: normal;
+  padding-left: 60px;
+}
+.exploreBooking {
+  height: 130px;
+  width: 130px;
+  padding-left: 60px;
+}
+.exploreContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.mediaImages {
+  height: 110px;
+  width: 220px;
+  color: #cccccc;
+  padding-top: 18px;
+  padding-left: 30px;
+  border: 0px;
+}
+.mediaContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+  width: 100%;
+  margin-top: 40px;
+  height: 40vh;
+}
+.srimandirHanuman {
+  height: 400px;
+  width: 500px;
+}
+.sriMandirheading1 {
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: normal;
+  padding-left: 10px;
+}
+.appleImg {
+  height: 60px;
+  width: 170px;
+  padding-top: 10px;
+}
+.playstoreImg {
+  height: 70px;
+  width: 190px;
+}
+.sriMandirheading1Span {
+  color: orange;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: normal;
+  padding-left: 10px;
+}
+.sriMandirheading {
+  color: #654321;
+  font-size: 19px;
+  font-family: 'Roboto';
+  font-weight: normal;
+  font-style: normal;
+  padding-left: 10px;
+}
+.imageFirst {
+  height: 30px;
+  width: 30px;
+}
+.fgb {
+  display: flex;
+  flex-direction: row;
+}
+.fgbiji{
+   display: flex;
+  flex-direction: row;
+}
+.IoMdContact {
+  background-image: url('https://www.srimandir.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FDefault%20Profile.619cb564.svg&w=48&q=75');
+  height: 40px;
+  width: 40px;
+  margin-right: 50px;
+  margin-left: 20px;
+  border: 2px solid #cccccc;
+  border-radius: 20px;
+}
+.homeNav1 {
+  color: orange;
+  text-decoration: none;
+  font-size: 19px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+  padding-right: 30px;
+}
+.homeNav2 {
+  color: #000000;
+  font-size: 19px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+  padding-bottom: 10px;
+}
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 10px 20px;
+  z-index: 1000;
+}
+.imageMandir {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+.mandirImageContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 40px;
+}
+.mandirImageContainer1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.mandirHeading {
+  color: #212020;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: normal;
+  padding-left: 10px;
+}
+.homeNav {
+  color: #000000;
+  font-size: 19px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+  padding-right: 30px;
+}
+.selectLangauage {
+  height: 40px;
+  width: 120px;
+  border: 1px solid #cccccc;
+  border-radius: 10px;
+  text-align: center;
+  color: #000000;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+}
+.fgbn {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  margin-left: 10px;
+}
+.libraryImage {
+  height: 45px;
+  width: 45px;
+  padding-top: 9px;
+  margin-right: 20px;
+}
+.libraryImage1 {
+  height: 30px;
+  width: 30px;
+}
+.libraryHeading {
+  color: #000000;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-family: 'Roboto';
+  margin-right: 100px;
+  padding-top: 8px;
+}
+.anchorelemet {
+  color: #000000;
+  font-size: 19px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-style: normal;
+  padding-bottom: 10px;
+  text-decoration: none;
+}
+.libraryHeading1 {
+  color: #000000;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: normal;
+  font-family: 'Roboto';
+  padding-left: 20px;
+  margin-right: 100px;
+  padding-top: 6px;
+}
+.myProfileContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+.libraryParagraph {
+  color: #cccccc;
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-family: 'Roboto';
+  margin-right: 100px;
+}
+.libraryParagraph1 {
+  color: #ccccc1;
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  font-family: 'Roboto';
+}
+@media only screen and (max-width: 900px) {
+  .mandirImageContainer1 {
+    display: none;
+  }
+}
